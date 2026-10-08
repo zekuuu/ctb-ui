@@ -22,7 +22,7 @@ Catch The Block (CTB) is an interactive blockchain game developed for the Blockc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/xKurty06/ctb-ui.git
+   git clone https://github.com/zekuuu/ctb-ui.git
    cd ctb-ui
    ```
 
@@ -71,7 +71,7 @@ ctb-ui/
 ## 👥 Contributors
 
 ### Front-end/UI Team
-- [xKurty06](https://github.com/xKurty06) - UI/UX Developer
+- [zekuuu](https://github.com/zekuuu) - UI/UX Developer
 - [Tristan-T-Dev](https://github.com/Tristan-T-Dev) - UI/UX Developer
 
 ## 📄 License
